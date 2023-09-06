@@ -10,4 +10,4 @@ app:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
     - name: testValue
-      value: testData
+      value: "testData"
